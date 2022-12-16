@@ -19,7 +19,9 @@ despite being inspired by someone else's work, all codes, ideas and standards ar
 ![front](https://user-images.githubusercontent.com/105358332/204588680-48190424-93f3-449f-a626-fe3a5e5fdd2c.png)
 
 ## Final Results
-
+[Login Screen](https://media.giphy.com/media/lAVhOoj7yaD0YKsp1R/giphy.gif)
+[Add Screen](https://media.giphy.com/media/vwIXYBaAYKPK3b2jMU/giphy.gif)
+[Home Screen](https://media.giphy.com/media/c0gdTh3wyh029yAoqE/giphy.gif)
 
 ## Running Locally API
 
